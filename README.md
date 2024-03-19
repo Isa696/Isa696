@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Isa696
+- 👋 Hi, I’m Isaias Romero
 - 👀 I’m interested in Front end projects to keep practicing
 - 🌱 I’m currently learning React.native
 - 💞️ I’m looking to collaborate on React.js projects.
