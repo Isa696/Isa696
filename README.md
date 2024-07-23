@@ -4,11 +4,14 @@
 - 💞️ I’m looking to collaborate on React.js projects.
 
 - 📫 How to reach me:
-- mail:
+- Mail:
 - isaias92@hotmail.com.ar
 
-- instagram:
-- https://www.instagram.com/isaias69666?igsh=MWRicWoxemd5bWFocg==
+- LinkedIn:
+- https://www.linkedin.com/in/isaias-romero-b0264b288/
 
 - Portfolio:
 - https://isa696-portfolio.vercel.app/
+
+- Instagram:
+- https://www.instagram.com/isaias69666?igsh=MWRicWoxemd5bWFocg==
